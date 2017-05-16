@@ -1,0 +1,2 @@
+soundDriver.c:13:6:initSoundDriver	104	static
+soundDriver.c:68:6:playNote	16	static

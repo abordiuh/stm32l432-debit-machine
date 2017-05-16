@@ -1,0 +1,2 @@
+pinDebounce.c:12:6:deBouncePinInit	32	static
+pinDebounce.c:21:8:deBounceReadPin	24	static

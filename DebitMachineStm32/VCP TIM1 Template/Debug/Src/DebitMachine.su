@@ -1,0 +1,12 @@
+DebitMachine.c:22:6:initDebitMachine	8	static
+DebitMachine.c:31:9:waitAndGetBtnPressed	8	static
+DebitMachine.c:46:6:showOkCancelTextOnLcd	8	static
+DebitMachine.c:53:6:welcomeState	40	static
+DebitMachine.c:73:6:amountState	24	static
+DebitMachine.c:88:6:chqSavState	8	static
+DebitMachine.c:110:6:pwdDigitChoseAndDisplay	16	static
+DebitMachine.c:125:6:pinCodeEdit	24	static
+DebitMachine.c:174:6:pinCodeState	16	static
+DebitMachine.c:183:6:prooveTransactionState	32	static
+DebitMachine.c:200:6:cancelState	8	static
+DebitMachine.c:212:6:debitMachineHandleStates	0	static
