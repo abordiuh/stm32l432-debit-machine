@@ -1,5 +1,4 @@
- # STM32 L432 Temperature reader with LCD
-***************************************************************************
+ # STM32 L432 Debit Machine with LCD and speaker
 
  The folder DebitMachineStm32 - contains source code and project of
 				Atollic True Studio:
